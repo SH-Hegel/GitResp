@@ -1,7 +1,7 @@
 aaa
 bbb
-<<<<<<< HEAD
+
 master中增加新内容。
-=======
+
 branch 01分支：增加了内容哦~~
->>>>>>> branch01
+
